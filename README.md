@@ -1,1 +1,1 @@
-# Walmart_Sales
+# Walmart Data Analysis: End-to-End SQL + Python Project
