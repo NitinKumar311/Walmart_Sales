@@ -1,6 +1,6 @@
 # Walmart Data Analysis: End-to-End SQL + Python Project
 # Project Overview
-
+ect.png
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis and PostgreSQL for advanced querying and business intelligence.
 
 The project demonstrates structured problem-solving techniques to answer key business questions and is ideal for data analysts looking to develop skills in:
